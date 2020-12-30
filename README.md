@@ -17,7 +17,7 @@
 <a href="mailto:bothera.abhi@gmail.com?subject=Hola%abhi here!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://abhibothera.me/"><img src="https://img.shields.io/badge/Website-0038FE?style=for-the-badge&logo=website&logoColor=white" alt="website"/></a>&nbsp;
 <a href="https://www.instagram.com/__legend99__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>&nbsp;
-<a href="https://abhibothera.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="instagram"/></a>&nbsp;
+<a href="https://abhibothera.medium.com"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="medium"/></a>&nbsp;
 
 
 <br>
