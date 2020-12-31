@@ -17,8 +17,6 @@
 <a href="https://abhibothera.me/"><img src="https://img.shields.io/badge/Website-0038FE?style=for-the-badge&logo=globe&logoColor=white" alt="website"/></a>&nbsp;
 <a href="https://www.instagram.com/__legend99__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>&nbsp;
 <a href="https://abhibothera.medium.com"><img src="https://img.shields.io/badge/Medium-F0F0F0?style=for-the-badge&logo=medium&logoColor=black" alt="medium"/></a>&nbsp;
-
-
 <br>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
